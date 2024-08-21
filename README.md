@@ -1,5 +1,5 @@
 # AmesHousing
-Project Overview
+Project Overview - 
 This project involves the comprehensive analysis of a real estate market using the Ames Housing dataset, a popular dataset in data science for exploring various aspects of housing markets. The primary objective of the project is to understand the factors that influence housing prices, identify trends over time, and gain insights into the real estate market dynamics in Ames, Iowa. By leveraging R and the Tidyverse suite of packages, this project combines data cleaning, exploratory data analysis (EDA), and visualization to provide meaningful insights into the real estate sector.
 
 Dataset
